@@ -11,7 +11,7 @@ I dream that one day I will be a skilled engineer at Facebook or Google or some 
 Every day I want to learn something new and share my knowledge with other people.
 
 
-Skills:  REACT / JS / HTML / CSS/php
+Skills:  REACT / JS / HTML / CSS/PHP
 
 - 🔭 I’m currently working on Darul-Uloom Academy. 
 - 🌱 I’m currently learning React Js, Laravel 
