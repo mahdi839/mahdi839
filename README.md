@@ -13,7 +13,7 @@ Every day I want to learn something new and share my knowledge with other people
 
 Skills:  PHP / Laravel / React Js / Bootstrap / CSS / HTML
 
-- 🔭 I’m currently working on Darul-Uloom Academy. 
+- 🔭 I’m currently working on Shop.freshie.farm project. 
 - 🌱 I’m currently learning React Js, Laravel 
 - 👯 I’m looking to collaborate on Git Hub 
 
