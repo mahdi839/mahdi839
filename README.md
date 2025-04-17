@@ -13,8 +13,8 @@ Every day I want to learn something new and share my knowledge with other people
 
 Skills:  PHP / Laravel / React Js / Bootstrap / CSS / HTML
 
-- 🔭 I’m currently working on Shop.freshie.farm project. 
-- 🌱 I’m currently learning React Js, Laravel 
+- 🔭 I’m currently working on Shop.freshie.farm,app.freshie.farm,animalbook.freshie.farm etc. projects. 
+- 🌱 I’m currently learning advance topics of React Js, Laravel 
 - 👯 I’m looking to collaborate on Git Hub 
 
 
