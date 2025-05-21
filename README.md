@@ -11,7 +11,7 @@ I'm continuously expanding my skills, driven by a strong desire to learn somethi
 
 Skills:  PHP / Laravel / React Js / Bootstrap / CSS / HTML
 
-- 🔭 I’m currently working on Shop.freshie.farm,app.freshie.farm,animalbook.freshie.farm etc. projects. 
+- 🔭 I’m currently working on Shop.freshie.farm, app.freshie.farm, animalbook.freshie.farm etc. projects. 
 - 🌱 I’m currently learning advance topics of React Js, Laravel 
 - 👯 I’m looking to collaborate on Git Hub 
 
