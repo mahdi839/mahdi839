@@ -4,11 +4,9 @@
 #### Web Developer
 
 
-I am a passionate web developer. I always enjoy programming and it's my favorite hobby.
-I have been learning programming languages including javascript and its library such as React Js, and I am also learning 
-PHP and its framework- Laravel.
-I dream that one day I will be a skilled engineer at Facebook or Google or some such professional field.
-Every day I want to learn something new and share my knowledge with other people.
+I’m a passionate web developer who truly enjoys programming—it's not just a career path, but my favorite hobby. I have hands-on experience with modern web technologies, including JavaScript and its popular library React.js, as well as PHP and the Laravel framework.
+
+I'm continuously expanding my skills, driven by a strong desire to learn something new every day. I enjoy sharing knowledge, collaborating with others, and contributing to meaningful projects.
 
 
 Skills:  PHP / Laravel / React Js / Bootstrap / CSS / HTML
